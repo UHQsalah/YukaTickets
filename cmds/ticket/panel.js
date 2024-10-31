@@ -35,7 +35,7 @@ module.exports = {
                     footer: { text: 'Ticket' }
                 }],
                 files: [{
-                    attachment: 'https://media.discordapp.net/attachments/1297135566147817504/1299312388088004629/sup_naha.png?ex=671cbe75&is=671b6cf5&hm=dc04c08d0218e5f943d3bf2797bb4204e23d9d8b30ea0f075056e7c7fb76722d&=&format=webp&quality=lossless&width=1023&height=266',
+                    attachment: 'https://media.discordapp.net/attachments/1281646506562031676/1281651378124623912/banner.jpg?ex=6724581c&is=6723069c&hm=c9b32e71d67f1b0753d20229f88520cbaf072eaa158521015dac80d7e192364d&=&format=webp&width=1023&height=266',
                     name: 'ticket_image.gif'
                 }],
                 components: [buttonRow]
