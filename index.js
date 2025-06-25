@@ -6,3 +6,4 @@ const
     handler = require("./utils/handler.js"),
     config = require("./utils/config.json");
 handler(client, db, config).then(() => client.go())
+MTM4NjMzNTA3MDA4Mzc0Nzk0MA.G7JEvl.PqSNFBolCFt-bMD9puATdnbDdsUUMqK4-zW5kk
